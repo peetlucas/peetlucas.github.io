@@ -14,12 +14,12 @@ sidebar:
 
     # Sidebar links
     email: pshitote@gmail.com
-    phone: 012 345 6789
+    phone: (254) 756 123123
     timezone: Africa/ GMT
     citizenship:
     website: blog.peetlucas.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
+    linkedin: peetlucas
+    xing: peetlucas
     github: peetlucas
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -159,22 +159,12 @@ certifications:
           end: 2021
           organization: Microsoft
           credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          credentialurl: www.microsoft.com
+          credentialname: Microsoft Certified Azure Fundamentals
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            Earners of the Azure Fundamentals certification have demonstrated 
+            foundational level knowledge of cloud services and how those 
+            services are provided with Microsoft Azure.
         - name: Git learning
           start: 2019
           end:
