@@ -17,7 +17,7 @@ sidebar:
     phone: 012 345 6789
     timezone: Africa/ GMT
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: blog.peetlucas.com #do not add http://
     linkedin: alandoe
     xing: alandoe
     github: peetlucas
@@ -45,14 +45,14 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Chess
+          link: https://www.chess.com/
 
-        - item: Snowboarding
-          link:
+        - item: Nature walk
+          link: https://www.friendsofkarura.org/
 
-        - item: Cooking
-          link:
+        - item: Photography
+          link: https://www.nikonusa.com/
 
 career-profile:
     title: Career Profile
@@ -106,27 +106,51 @@ experiences:
             and AWS.
       - role: Senior Software Engineer
         time: 2014 - 2015
+        company: Microsoft, Ireland
+        details: |
+          - Acted as a contact point between the technical team, functional 
+            team, and test teams.
+          - Performed requirements analysis, design, development, and test
+            management of monthly releases.
+          - Performed feasibility analysis, and forecasted risks, planning the 
+            delivery for new requirements.
+          - Contributed to each project delivery phase (analysis, development,
+            test, ops) in different roles.
+          - Automated build, delivery, and release of Office 365 packages in 
+            Agile lifecycles.
+          - Leveraged modern technologies using C#, .NET, React.js, Node.js,
+            TypeScript, Azure Cloud Services.
+      - role: Senior Web Applications Developer
+        time: 2012 - 2014
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
+          - Engineered and implemented a cutting-edge Performance Management System
+            utilizing JavaScript, HTML5, CSS3, PHP, WordPress, and MySQL.
+          - Championed end-to-end development, testing, and bug fixing, creating a
+            customized system adept at managing diverse modules including Grant
+            Management, Payroll, Human Resources, and Timesheets.
+          - Spearheaded the integration of a Grants Management module, elevating 
+            grant sourcing by an impressive 35% for the development office.
+          - Pioneered the implementation of a performance visualization dashboard
+            using Python Django, chart.js and PostgreSQL, providing insightful metrics
+            for informed decision-making.
+          - Optimized organizational efficiency by providing a comprehensive solution that
+            significantly contributed to success and growth.
+      - role: Software Engineer/ Database Designer
+        time: 2008 - 2014
         company: Amazon, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          - Spearheaded the design and development of an efficient expert
+            consultants' database, optimizing the search and contracting processes
+            for diverse organizational projects.
+          - Utilized an extensive tech stack, including ASP.NET, HTML, CSS,
+            JavaScript, C#, WPF, Azure, and MSSQL, to architect and implement the
+            user-friendly database.
+          - Proactively led and collaborated on all phases of design and development,
+            showcasing proficiency and adaptability in delivering technological solutions.
+          - Successfully delivered a streamlined and robust database, elevating the 
+            organization's efficiency in engaging consultants for various projects.
+        
 certifications:
       title: Certifications
       list:
