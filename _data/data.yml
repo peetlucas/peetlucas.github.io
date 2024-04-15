@@ -165,22 +165,18 @@ certifications:
             Earners of the Azure Fundamentals certification have demonstrated 
             foundational level knowledge of cloud services and how those 
             services are provided with Microsoft Azure.
-        - name: Git learning
+        - name: Git Learning
           start: 2019
           end:
-          organization: Microsoft
+          organization: GitHub
           credentialid: 111-222
           credentialurl: www.github.com
-          credentialname: Github
+          credentialname: GitHub
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Level up your GitHub skills with GitHub Learning Lab. 
+            Our friendly bot will take you through a series of fun, 
+            practical projects that will give you the skills you need 
+            in no time--and share helpful feedback along the way.
 
 projects:
     title: Projects
