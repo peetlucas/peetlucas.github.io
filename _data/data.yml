@@ -154,7 +154,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Microsoft Azure Fundamentals
           start: 2020
           end: 2021
           organization: Microsoft
