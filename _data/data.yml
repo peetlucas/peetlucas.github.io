@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Peter Shitote
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: pshitote@gmail.com
     phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    timezone: Africa/ GMT
     citizenship:
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: peetlucas
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@pshitote'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,10 +36,10 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
+        - idiom: German
           level: Professional
 
-        - idiom: Spanish
+        - idiom: French
           level: Professional
 
     interests:
@@ -57,56 +57,53 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Dedicated and results-driven Senior Software Engineer with a passion for
+      designing and implementing innovative, scalable solutions. Proven leadership
+      skills in guiding development teams to deliver high quality software. 
+      Committed to staying abreast of emerging technologies and contributing to a 
+      collaborative, high performance work environment.
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
+        university: International University of Applied Sciences
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Software engineering, cyber security, or artificial intelligence: 
+          with our online Master’s degree in Computer Science, you’ll 
+          have your finger on the pulse of new technological developments.
       - degree: BSc in Applied Mathematics
-        university: Bristol University
+        university: University of Manchester
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          A significant amount of work was project-based team work, 
+          tackling real problems. Computer science is directly applicable 
+          to solving problems, across a broad range of areas. This included:
+          Software Engineering, Data Science, Mathematical Techniques for CS,
+          and Operating Systems.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Senior Software Engineer - Team Lead
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: Fermi Innovate, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          - Led the design and development of highly scalable web and mobile
+            applications for clients in Kenya and San Francisco.
+          - Established a robust implementation workflow, optimizing deployment
+            efficiency and reducing time-to-market by 30%.
+          - Mentored and guided a team of 5 junior software engineers, fostering
+            collaboration and achieving a 10% increase in productivity.
+          - Translated business requirements into successful technical solution
+            in collaboration with cross-functional stakeholders.
+          - Devised a cost-effective algorithm for produce delivery, cutting
+            manual transport to 24% of trips, reducing time by 75%, and lowering
+            costs by 53%.
+          - Created a secure REST API backend with JWT authentication. Tools used 
+            incuded React.js, NextJS, Redux, Java, Node.js, GraphQL, Rest API,
+            TypeScript, JavaScript, HTML, CSS, Flutter, Artificial Intelligence,
+            and AWS.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
